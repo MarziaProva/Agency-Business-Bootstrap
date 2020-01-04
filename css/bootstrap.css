@@ -3999,13 +3999,14 @@ input[type="button"].btn-block {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
-  background-color: transparent;
+  background-color: red;
   border: 1px solid transparent;
   border-radius: 0.25rem;
 }
 
 .navbar-toggler:hover, .navbar-toggler:focus {
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: white;
 }
 
 .navbar-toggler:not(:disabled):not(.disabled) {
