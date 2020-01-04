@@ -430,3 +430,11 @@ display: inline-block;
     background-size: 100% 100%;
     background-color: red;
 }
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: coral;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
